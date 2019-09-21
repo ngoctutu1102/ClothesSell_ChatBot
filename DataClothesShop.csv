@@ -1,0 +1,105 @@
+question,classification
+When do you close today?,time
+What time you working?,time
+What time does your store open?,time
+What time do you close?,time
+What times are you open?,time
+When is shop open?,time
+When do you open ?,time
+Are you open on Sunday?,time
+Are you open on Saturday?,time
+How is your store doing?,time
+Where are you?,address
+Where is your shop located?,address
+Can I visit your shop?,address
+Can I visit your strore?,address
+I want to go to shop?,address
+Where are you located?,address
+where is your address?,address
+I don't know your address,address
+How much is this?,price
+How money this dress?,price
+How money this shirt?,price
+How money this jeans?,price
+How money this T-shirt?,price
+How money this coats?,price
+How money this jacket?,price
+How money this ?,price
+How much this blue?,price
+How much for dress?,price
+How money this dress?,price
+"I weigh 45kg, which size is suitable?",size S
+"I weigh 40kg, which size is suitable",size S
+"I weigh 35kg, which size is suitable",size S
+"1m5 tall and weigh 45kg, which size is suitable",size S
+"1m55 tall and weigh 45kg, which size is suitable",size S
+"1m5 tall and weigh 40kg, which size is suitable",size S
+"1m6 tall and weigh 40kg, which size is suitable",size S
+"1m6 tall and weigh 45kg, which size is suitable",size S
+"1m6 tall and weigh 35kg, which size is suitable",size S
+"I weigh 50kg, which size is suitable?",size M
+"I weigh 55kg, which size is suitable",size M
+"I weigh 53kg, which size is suitable",size M
+"1m5 tall and weigh 50kg, which size is suitable",size M
+"1m55 tall and weigh 50kg, which size is suitable",size M
+"1m5 tall and weigh 55kg, which size is suitable",size M
+"1m6 tall and weigh 50kg, which size is suitable",size M
+"1m6 tall and weigh 55kg, which size is suitable",size M
+"1m6 tall and weigh 53kg, which size is suitable",size M
+"I weigh 57kg, which size is suitable?",size L
+"I weigh 60kg, which size is suitable",size L
+"I weigh 62kg, which size is suitable",size L
+"1m55 tall and weigh 57kg, which size is suitable",size L
+"1m55 tall and weigh 60kg, which size is suitable",size L
+"1m65 tall and weigh 55kg, which size is suitable",size L
+"1m7 tall and weigh 55kg, which size is suitable",size L
+"1m6 tall and weigh 60kg, which size is suitable",size L
+"1m6 tall and weigh 57kg, which size is suitable",size L
+"1m5 tall and weigh 57kg, which size is suitable",size L
+"1m7 tall and weigh 50kg, which size is suitable",size L
+"I weigh 65kg, which size is suitable?",size XL
+"I weigh 67kg, which size is suitable",size XL
+"I weigh 70kg, which size is suitable",size XL
+"1m55 tall and weigh 70kg, which size is suitable",size XL
+"1m55 tall and weigh 65kg, which size is suitable",size XL
+"1m65 tall and weigh 55kg, which size is suitable",size XL
+"1m8 tall and weigh 60kg, which size is suitable",size XL
+"1m6 tall and weigh 65kg, which size is suitable",size XL
+"1m7 tall and weigh 60kg, which size is suitable",size XL
+"1m7 tall and weigh 65kg, which size is suitable",size XL
+"1m8 tall and weigh 55kg, which size is suitable",size XL
+"1m5 tall and weigh 65kg, which size is suitable",size XL
+"I weigh 75kg, which size is suitable",size XXL
+"I weigh 80kg, which size is suitable",size XXL
+"1m7 tall and weigh 70kg, which size is suitable",size XXL
+"1m8 tall and weigh 70kg, which size is suitable",size XXL
+"1m8 tall and weigh 75kg, which size is suitable",size XXL
+"1m6 tall and weigh 75kg, which size is suitable",size XXL
+What does your store sell?,shop
+What do you sell?,shop
+Are you fashion shop?,shop
+Are your store sell skirt?,shop
+Are your store sell  swimming costume?,shop
+Are your store sell pyjamas?,shop
+Are your store sell  jacket?,shop
+Are your store sell  jeans?,shop
+Are your store sell dress?,shop
+Are your store sell anorak?,shop
+Are your store sell jumper?,shop
+Are your store sell dress?,shop
+Are your store sell T - shirt?,shop
+Do you deliver?,shipping
+Do you shipping?,shipping
+How much shipping fee?,shipping
+How much money is free shipping?,shipping
+Hello,hello
+How are you,hello
+How old are you,hello
+Are you girl,hello
+Are you boy,hello
+Hi,hello
+I am sad,hello
+I need you,hello
+I love you,love
+Thanks,love
+Thank you,love
